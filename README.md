@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Suman Das!
 
-<!--
-**SumanDas3001/SumanDas3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Web Developer**  
+I build scalable web applications and APIs using modern frameworks and technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Backend**  
+- Ruby  
+- Rails  
+- NestJS  
+
+### **Frontend**  
+- React  
+- Angular  
+
+### **Database**  
+- PostgreSQL  
+
+🎯 Always exploring and learning new technologies to deliver impactful solutions.  
+
